@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![logo](https://github.com/TanishqDhawan0912/TanishqDhawan0912/blob/main/tanishqdhawan0912.avif)
+<p align="center">
+  <img src="https://github.com/TanishqDhawan0912/TanishqDhawan0912/blob/main/tanishqdhawan0912.avif" alt="logo">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Tanishq Dhawan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
