@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/TanishqDhawan0912/TanishqDhawan0912/blob/main/tanishqdhawan0912.avif" alt="logo">
+  <img src="https://github.com/TanishqDhawan0912/TanishqDhawan0912/blob/main/tanishqdhawan0912.avif" width="100%" alt="logo">
 </p>
 
 
